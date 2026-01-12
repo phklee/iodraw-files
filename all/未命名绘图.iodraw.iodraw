@@ -52,7 +52,7 @@
           <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-8" value="解析模型版本 &amp;amp; 日期&amp;nbsp;ParseModelVersionAndDate()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="770" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
