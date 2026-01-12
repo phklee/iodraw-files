@@ -28,8 +28,8 @@
           <mxGeometry x="120" y="169" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry x="0.0082" y="10" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+          <mxGeometry x="-0.3058" y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
             <mxPoint x="220" y="429" as="targetPoint" />
           </mxGeometry>
         </mxCell>
