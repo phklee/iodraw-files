@@ -57,6 +57,9 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-9" value="模型是否加载成功?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="850" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-10" value="WarmUp 模型 + 初始化 Buffer&amp;nbsp;&lt;div&gt;WarnUp() + InitBuffer()&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
