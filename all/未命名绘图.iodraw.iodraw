@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;div&gt;ota_model_path 是否为空？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="290" width="200" height="90" as="geometry" />
+          <mxGeometry x="120" y="290" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="加载默认模型LoadDefaultModel()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="380" y="670" width="120" height="60" as="geometry" />
@@ -61,7 +61,7 @@
           <mxGeometry x="135" y="900" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-11" value="Init 成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="187.5" y="1060" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="1030" width="112.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
