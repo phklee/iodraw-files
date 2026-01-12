@@ -60,6 +60,14 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-10" value="WarmUp 模型 + 初始化 Buffer&amp;nbsp;&lt;div&gt;WarnUp() + InitBuffer()&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXG57olTBfd_bTjzuvYL-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-11" value="Init 成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
