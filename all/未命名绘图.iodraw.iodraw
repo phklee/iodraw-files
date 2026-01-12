@@ -43,7 +43,7 @@
           <mxGeometry x="380" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-1" value="扫描 ota_model_path 下的 *.engine，engine 文件数量 == 1 ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="115" y="430" width="210" height="110" as="geometry" />
+          <mxGeometry x="150" y="430" width="175" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
