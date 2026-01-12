@@ -51,7 +51,7 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-6" value="扫描 ota_model_path 下的 *.engine，" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kXG57olTBfd_bTjzuvYL-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kXG57olTBfd_bTjzuvYL-8" value="解析模型版本 &amp;amp; 日期&amp;nbsp;ParseModelVersionAndDate()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
