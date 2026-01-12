@@ -40,7 +40,7 @@
           <mxGeometry x="120" y="290" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="加载默认模型LoadDefaultModel()" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-1" value="engine 文件数量 == 1 ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="132.5" y="530" width="175" height="90" as="geometry" />
@@ -60,13 +60,8 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-10" value="WarmUp 模型 + 初始化 Buffer&amp;nbsp;&lt;div&gt;WarnUp() + InitBuffer()&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kXG57olTBfd_bTjzuvYL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXG57olTBfd_bTjzuvYL-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="1040" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-11" value="Init 成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="187.5" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
