@@ -101,6 +101,9 @@
         <mxCell id="Q68HMK5oset0HmcoDi8W-39" value="自测" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="406.25" y="484" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Q68HMK5oset0HmcoDi8W-44" value="&lt;font color=&quot;#ba0085&quot;&gt;&lt;span style=&quot;background-color: rgb(250, 250, 250);&quot;&gt;修改版本升级配置，更新各个模块对应的模型制品（B2-2025）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;align=center;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="33.379999999999995" y="350" width="137.74" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
