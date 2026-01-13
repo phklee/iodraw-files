@@ -12,24 +12,6 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="TS打包MAP镜像" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="156.25" y="20" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="kXG57olTBfd_bTjzuvYL-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kXG57olTBfd_bTjzuvYL-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="464" y="143" />
-              <mxPoint x="464" y="789" />
-            </Array>
-            <mxPoint x="332.5" y="143" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kXG57olTBfd_bTjzuvYL-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kXG57olTBfd_bTjzuvYL-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="464" y="250" />
-              <mxPoint x="464" y="789" />
-            </Array>
-            <mxPoint x="329.375" y="250" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="kXG57olTBfd_bTjzuvYL-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -116,7 +98,7 @@
           <mxGeometry x="242.25" y="963" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-0" value="尝试加载 OTA 模型&lt;div&gt;LoadTrtModel()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="112" width="120" height="60" as="geometry" />
+          <mxGeometry x="181.88" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
