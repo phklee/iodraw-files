@@ -135,7 +135,7 @@
           <mxGeometry x="59.13" y="429.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-63" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;核心点：MAP整包部署不会清除OTA模型，&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;即历史OTA模型会存留在指定路径下，MAP会去读取&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="424.5" width="420" height="50" as="geometry" />
+          <mxGeometry x="80" y="710" width="420" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
