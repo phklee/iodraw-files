@@ -134,8 +134,8 @@
         <mxCell id="Q68HMK5oset0HmcoDi8W-61" value="&lt;span style=&quot;color: rgb(186, 0, 133); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(250, 250, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;注：如未单模块部署，MAP默认会自动读取&lt;/span&gt;&lt;span style=&quot;background-color: rgb(250, 250, 250); color: rgb(186, 0, 133); text-align: center;&quot;&gt;OTA路径下模型&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="59.13" y="429.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Q68HMK5oset0HmcoDi8W-63" value="核心点：MAP整包部署不会清除OTA模型，&lt;div&gt;即历史OTA模型会存留在指定路径下，MAP会去读取&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="460" y="280" width="300" height="40" as="geometry" />
+        <mxCell id="Q68HMK5oset0HmcoDi8W-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;核心点：MAP整包部署不会清除OTA模型，&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;即历史OTA模型会存留在指定路径下，MAP会去读取&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="275" width="350" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
