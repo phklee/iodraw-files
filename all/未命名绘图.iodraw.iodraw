@@ -40,7 +40,7 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-34" value="加载默认模型&lt;div&gt;LoadDefaultModel()&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="810" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kXG57olTBfd_bTjzuvYL-35" value="模型是否成功加载" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kXG57olTBfd_bTjzuvYL-35" value="模型是否成功加载？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="920" width="375" height="80" as="geometry" />
         </mxCell>
       </root>
