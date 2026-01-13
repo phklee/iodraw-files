@@ -41,12 +41,12 @@
           <mxGeometry x="267.75" y="700" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-35" value="模型是否成功加载？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="800" width="180" height="80" as="geometry" />
+          <mxGeometry x="152.5" y="900" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-36" value="WarmUp 模型 + 初始化 Buffer&lt;div&gt;WarnUp() + InitBuffer()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="157.5" y="920" width="185" height="60" as="geometry" />
+          <mxGeometry x="150" y="1000" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kXG57olTBfd_bTjzuvYL-37" value="模型是否成功加载？" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kXG57olTBfd_bTjzuvYL-37" value="version &amp;gt;= ota_min_model_version" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="800" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
