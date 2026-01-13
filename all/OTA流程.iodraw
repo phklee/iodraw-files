@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1010" dy="102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -59,7 +59,12 @@
           <mxGeometry x="-460" y="460" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-12" target="Q68HMK5oset0HmcoDi8W-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-208" y="560" />
+              <mxPoint x="-309" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-12" value="&lt;font color=&quot;#ba0085&quot;&gt;&lt;span style=&quot;background-color: rgb(250, 250, 250);&quot;&gt;修改MAP版本升级配置，更新各个模块对应的模型制品（B2-2025）&lt;/span&gt;&lt;/font&gt;" style="rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;align=center;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-276.62" y="460" width="137.74" height="60" as="geometry" />
