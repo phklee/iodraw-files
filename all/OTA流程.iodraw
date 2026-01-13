@@ -92,8 +92,8 @@
         <mxCell id="Q68HMK5oset0HmcoDi8W-38" value="TS上车单模块&lt;div&gt;部署各个模块模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q68HMK5oset0HmcoDi8W-39" value="TS上车单模块&lt;div&gt;部署各个模块模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="Q68HMK5oset0HmcoDi8W-39" value="自测" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
