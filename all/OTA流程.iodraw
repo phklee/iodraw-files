@@ -110,8 +110,8 @@
         <mxCell id="Q68HMK5oset0HmcoDi8W-44" value="&lt;font color=&quot;#ba0085&quot;&gt;四个模块提供&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ba0085&quot;&gt;模型制品版本&lt;/font&gt;&lt;/div&gt;" style="rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;align=center;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="382.38" y="390" width="137.74" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q68HMK5oset0HmcoDi8W-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="308" width="50" height="30" as="geometry" />
+        <mxCell id="Q68HMK5oset0HmcoDi8W-48" value="模型OTA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="380" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
