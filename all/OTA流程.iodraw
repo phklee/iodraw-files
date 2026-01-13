@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-1" value="B2（6X）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="95" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-2">
           <mxGeometry relative="1" as="geometry">
@@ -114,7 +114,7 @@
         <mxCell id="Q68HMK5oset0HmcoDi8W-2" value="B2-2025（2O）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="282.25" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q68HMK5oset0HmcoDi8W-8" value="B2（6X）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q68HMK5oset0HmcoDi8W-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;MAP_RoboBus_B2-2025_24_ota_master_tool_20260112_ARM_dev&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
