@@ -122,8 +122,11 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-54" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="161.88" y="560" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kXG57olTBfd_bTjzuvYL-55" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="kXG57olTBfd_bTjzuvYL-55" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="560" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-56" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="171.88" y="570" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
