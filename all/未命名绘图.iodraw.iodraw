@@ -28,8 +28,14 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-22" value="ota_model_path 是否为空？&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="57.5" y="330" width="375" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXG57olTBfd_bTjzuvYL-26" target="kXG57olTBfd_bTjzuvYL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-26" value="扫描 ota_model_path 下的 *.engine" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="185" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-28" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="205" y="600" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
