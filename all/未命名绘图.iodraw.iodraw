@@ -23,16 +23,16 @@
           <mxGeometry x="156.875" y="290" width="176.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-26" value="扫描 ota_model_path 下的 *.engine" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="454" width="120" height="60" as="geometry" />
+          <mxGeometry x="185" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-30" value="engine 文件数量 == 1 ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="153.125" y="570" width="183.75" height="80" as="geometry" />
+          <mxGeometry x="153.125" y="490" width="183.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-31" value="尝试加载 OTA 模型&lt;div&gt;LoadTrtModel()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="65" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="65" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-32" value="记录 warning 日志&lt;div&gt;fallback 到默认模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-33" value="解析模型版本 &amp;amp; 日期&lt;div&gt;ParseModelVersionAndDate()&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="810" width="185" height="60" as="geometry" />
