@@ -60,6 +60,9 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-33" value="解析模型版本 &amp;amp; 日期&lt;div&gt;ParseModelVersionAndDate()&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="38.75" y="700" width="185" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXG57olTBfd_bTjzuvYL-34" target="kXG57olTBfd_bTjzuvYL-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-34" value="加载默认模型&lt;div&gt;LoadDefaultModel()&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="267.75" y="810" width="185" height="60" as="geometry" />
         </mxCell>
@@ -68,6 +71,9 @@
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-36" value="WarmUp 模型 + 初始化 Buffer&lt;div&gt;WarnUp() + InitBuffer()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="158.13" y="1030" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXG57olTBfd_bTjzuvYL-37" target="kXG57olTBfd_bTjzuvYL-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-37" value="ota model version &amp;gt;=&amp;nbsp;&lt;div&gt;MAP model version ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="41.25" y="800" width="180" height="80" as="geometry" />
