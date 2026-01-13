@@ -18,7 +18,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="TS根据车型打包MAP镜像" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="76.25" y="20" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q68HMK5oset0HmcoDi8W-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-1">
+        <mxCell id="Q68HMK5oset0HmcoDi8W-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-1" target="Q68HMK5oset0HmcoDi8W-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="75" y="230" as="targetPoint" />
           </mxGeometry>
@@ -26,7 +26,7 @@
         <mxCell id="Q68HMK5oset0HmcoDi8W-1" value="B2（6X）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="15" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q68HMK5oset0HmcoDi8W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-2">
+        <mxCell id="Q68HMK5oset0HmcoDi8W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-2" target="Q68HMK5oset0HmcoDi8W-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="262.25" y="230" as="targetPoint" />
           </mxGeometry>
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;MAP_RoboBus_&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;B2-2025_XXX_ARM_dev&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="188.38" y="230" width="147.75" height="60" as="geometry" />
+          <mxGeometry x="188.38" y="240" width="147.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-11" target="Q68HMK5oset0HmcoDi8W-16">
           <mxGeometry relative="1" as="geometry" />
