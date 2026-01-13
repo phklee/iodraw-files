@@ -37,8 +37,14 @@
         <mxCell id="Q68HMK5oset0HmcoDi8W-2" value="B2-2025（2O）" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-267.75" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Q68HMK5oset0HmcoDi8W-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-8" target="Q68HMK5oset0HmcoDi8W-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-8" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); background-color: rgb(250, 250, 250);&quot;&gt;MAP_RoboBus_&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); background-color: rgb(250, 250, 250);&quot;&gt;B2_XXX_ARM_dev&lt;/span&gt;&lt;/div&gt;" style="rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;align=center;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-460" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q68HMK5oset0HmcoDi8W-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-9" target="Q68HMK5oset0HmcoDi8W-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;MAP_RoboBus_&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;B2-2025_XXX_ARM_dev&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-281.62" y="240" width="147.75" height="60" as="geometry" />
@@ -114,7 +120,7 @@
           <mxGeometry x="-353.75" y="663" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-51" value="&lt;font color=&quot;#ba0085&quot;&gt;四个模块提供&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ba0085&quot;&gt;模型制品版本&lt;/font&gt;&lt;/div&gt;" style="rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;align=center;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-377.62" y="310" width="137.74" height="60" as="geometry" />
+          <mxGeometry x="-377.62" y="340" width="137.74" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
