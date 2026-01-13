@@ -22,8 +22,14 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-22" value="ota_model_path 是否为空？&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="161.875" y="278" width="176.25" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXG57olTBfd_bTjzuvYL-26" target="kXG57olTBfd_bTjzuvYL-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-26" value="扫描 ota_model_path 下的 *.engine" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="394" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kXG57olTBfd_bTjzuvYL-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXG57olTBfd_bTjzuvYL-30" target="kXG57olTBfd_bTjzuvYL-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-30" value="engine 文件数量 == 1 ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="158.125" y="490" width="183.75" height="80" as="geometry" />
