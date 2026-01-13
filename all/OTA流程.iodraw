@@ -45,8 +45,8 @@
         <mxCell id="Q68HMK5oset0HmcoDi8W-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;MAP_RoboBus_&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); text-align: left; background-color: rgb(250, 250, 250);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;B2-2025_XXX_ARM_dev&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="188.38" y="230" width="147.75" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q68HMK5oset0HmcoDi8W-11" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); background-color: rgb(250, 250, 250);&quot;&gt;MAP_RoboBus_&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); background-color: rgb(250, 250, 250);&quot;&gt;B2_XXX_ARM_dev&lt;/span&gt;&lt;/div&gt;" style="rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;align=center;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="Q68HMK5oset0HmcoDi8W-11" value="&lt;font color=&quot;#ba0085&quot;&gt;&lt;span style=&quot;background-color: rgb(250, 250, 250);&quot;&gt;修改版本升级配置&lt;/span&gt;&lt;/font&gt;" style="rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;align=center;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
