@@ -14,16 +14,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="ota_enable == true ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="158.75" y="160" width="182.5" height="80" as="geometry" />
+          <mxGeometry x="158.75" y="171" width="182.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kXG57olTBfd_bTjzuvYL-22" target="kXG57olTBfd_bTjzuvYL-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-22" value="ota_model_path 是否为空？&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="161.875" y="290" width="176.25" height="80" as="geometry" />
+          <mxGeometry x="161.875" y="278" width="176.25" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-26" value="扫描 ota_model_path 下的 *.engine" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="394" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-30" value="engine 文件数量 == 1 ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="158.125" y="490" width="183.75" height="80" as="geometry" />
