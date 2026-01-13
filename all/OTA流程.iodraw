@@ -84,7 +84,7 @@
           <mxGeometry x="377.375" y="240" width="147.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-35" value="TS上车整包&lt;div&gt;部署&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="391.25" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q68HMK5oset0HmcoDi8W-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Q68HMK5oset0HmcoDi8W-30" target="Q68HMK5oset0HmcoDi8W-35">
           <mxGeometry relative="1" as="geometry" />
