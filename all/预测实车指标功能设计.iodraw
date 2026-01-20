@@ -54,8 +54,8 @@
         <mxCell id="FVXKYM-iBQqKWwKT4Xfn-12" value="计算意图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280.25" y="382" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-16" value="待确认问题：&lt;div&gt;1、是否区分场景？如是，分哪些场景？&lt;/div&gt;&lt;div&gt;2、&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="263" width="230" height="60" as="geometry" />
+        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-16" value="待确认问题：&lt;div&gt;1、是否区分场景？如是，分哪些场景？&lt;/div&gt;&lt;div&gt;2、意图暂不开发，是否异议？&lt;/div&gt;&lt;div&gt;3、&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="455" y="258" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
