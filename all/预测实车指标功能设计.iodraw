@@ -64,7 +64,7 @@
           <mxGeometry x="156.25" y="633" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FVXKYM-iBQqKWwKT4Xfn-19" value="配合解析工具调试使用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-150" y="340" width="140" height="30" as="geometry" />
+          <mxGeometry x="-70" y="648" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
