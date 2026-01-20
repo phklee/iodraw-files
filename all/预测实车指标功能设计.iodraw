@@ -126,10 +126,10 @@
           <mxGeometry x="32.5" y="926" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-48" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="351.76" y="310" width="40" height="30" as="geometry" />
+          <mxGeometry x="240.25" y="310" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-50" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="358.25" y="239" width="40" height="30" as="geometry" />
+          <mxGeometry x="364.25" y="230" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kXG57olTBfd_bTjzuvYL-51" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="236.25" y="747" width="40" height="30" as="geometry" />
@@ -165,6 +165,9 @@
               <mxPoint x="420" y="140" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FVXKYM-iBQqKWwKT4Xfn-3" target="FVXKYM-iBQqKWwKT4Xfn-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FVXKYM-iBQqKWwKT4Xfn-3" value="预测轨迹和感知结果是否满足100帧" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="125" y="210" width="232.5" height="100" as="geometry" />
