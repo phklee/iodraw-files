@@ -142,6 +142,9 @@
         <mxCell id="kXG57olTBfd_bTjzuvYL-60" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="242.25" y="963" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-0" value="预测实车指标" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="166.25" y="30" width="170" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
