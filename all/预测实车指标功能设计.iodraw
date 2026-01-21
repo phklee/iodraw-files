@@ -114,6 +114,9 @@
         <mxCell id="FVXKYM-iBQqKWwKT4Xfn-42" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;预测实车指标&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: initial;&quot;&gt;架构图&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="575" y="138" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-43" value="待确认问题：&lt;div&gt;1、轨迹指标是否区分场景？区分障碍物类别？&lt;/div&gt;&lt;div&gt;2、意图暂不开发？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="210" width="270" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
