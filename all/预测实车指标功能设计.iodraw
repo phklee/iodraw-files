@@ -111,7 +111,7 @@
         <mxCell id="FVXKYM-iBQqKWwKT4Xfn-37" value="&lt;div&gt;3. 取出 proto&lt;/div&gt;&lt;div&gt;4. 构造 MetricFrame（ObjectFrameData）&lt;/div&gt;&lt;div&gt;5. 更新滑窗 metric_buffer_&lt;/div&gt;&lt;div&gt;6. 滑窗满 kMetricFrameNum 时:&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;a. CollectValidObjects&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;b. ComputeADE_FDE&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="957" y="493" width="250" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-43" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;预测实车指标&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: initial;&quot;&gt;架构图&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;flipH=1;flipV=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-43" value="&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;预测实车指标&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: wrap; background-color: initial;&quot;&gt;架构图&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;flipH=1;flipV=1;textDirection=rtl;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="830" y="100" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
