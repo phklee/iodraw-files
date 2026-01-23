@@ -117,8 +117,8 @@
         <mxCell id="FVXKYM-iBQqKWwKT4Xfn-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;预测实车指标代码结构示意图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="50" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;预测实车指标代码结构示意图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="60" width="210" height="30" as="geometry" />
+        <mxCell id="FVXKYM-iBQqKWwKT4Xfn-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;预测实车指标算法流程图&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="-10" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
