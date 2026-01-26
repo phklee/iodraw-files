@@ -281,7 +281,7 @@
         <mxCell id="bZwijPJN96Wjhd9VrFld-71" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="905.75" y="1053" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bZwijPJN96Wjhd9VrFld-76" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;OTA上车流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bZwijPJN96Wjhd9VrFld-76" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;OTA上车流程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-390" y="789" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
