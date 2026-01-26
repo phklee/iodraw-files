@@ -282,7 +282,10 @@
           <mxGeometry x="905.75" y="1053" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZwijPJN96Wjhd9VrFld-76" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;OTA上车流程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-390" y="789" width="130" height="30" as="geometry" />
+          <mxGeometry x="-800" y="20" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bZwijPJN96Wjhd9VrFld-78" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;OTA上车流程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="682.8800000000001" y="30" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
